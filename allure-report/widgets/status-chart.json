@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b9e7b3560f5da2e7",
+  "name" : "Add a new Wan profile",
+  "time" : {
+    "start" : 1644148744502,
+    "stop" : 1644148753888,
+    "duration" : 9386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

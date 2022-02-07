@@ -1,0 +1,34 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "basic.test.js",
+      "children" : [ {
+        "name" : "WAN Profile Feature Test",
+        "children" : [ {
+          "name" : "Add a new Wan profile",
+          "uid" : "b9e7b3560f5da2e7",
+          "parentUid" : "72f6f82ec3e522d7057bded279cc051e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644148744502,
+            "stop" : 1644148753888,
+            "duration" : 9386
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "72f6f82ec3e522d7057bded279cc051e"
+      } ],
+      "uid" : "4d097b624e4865c718755c14e1b26a91"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  } ],
+  "name" : "suites"
+}

@@ -1,0 +1,21 @@
+{
+  "chromium basic.test.js WAN Profile Feature Test Add a new Wan profile" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9e7b3560f5da2e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644148744502,
+        "stop" : 1644148753888,
+        "duration" : 9386
+      }
+    } ]
+  }
+}
